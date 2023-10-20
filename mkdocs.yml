@@ -1,4 +1,7 @@
 site_name: FFT
+site_url: https://ccarenzoic.github.io/fft.github.io/
+repo_url: https://github.com/ccarenzoIC/fft.github.io
+repo_name: GitHub
 theme:
   name: material
   features:
